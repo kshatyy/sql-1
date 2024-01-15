@@ -32,7 +32,7 @@
 
 Скриншот-1 к заданию 2:
 
-![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/2-1.png)
+![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/2-1new.png)
 
 ### Задание 3
 
@@ -44,7 +44,7 @@
 
 Скриншот-1 к заданию 4:
 
-![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/4-1.png)
+![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/4-1new.png)
 
 ### Задание 5
 
