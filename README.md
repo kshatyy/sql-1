@@ -44,7 +44,7 @@
 
 Скриншот-1 к заданию 4:
 
-![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/4-1-1new.png)
+![Скриншот-1](https://github.com/kshatyy/sql-1/blob/main/img/4-1-2new.png)
 
 ### Задание 5
 
